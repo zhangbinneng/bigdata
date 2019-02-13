@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.qianfeng.bigdata.mapreduce.exam.job.AnswerPaperJob
+
